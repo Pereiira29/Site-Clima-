@@ -1,4 +1,4 @@
-#Dashboard de Clima
+# Dashboard de Clima
 
 Aplicação web simples que consulta a previsão do tempo em tempo real
 para qualquer cidade, usando a API do OpenWeather.
